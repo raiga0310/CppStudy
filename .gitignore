@@ -1,0 +1,7 @@
+CMakeLists.txt
+library.cpp
+library.h
+
+*.exe
+
+cmake-build-debug
